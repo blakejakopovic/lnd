@@ -76,6 +76,9 @@
 * [Fix itest not picking up local config file or creating directories in home
   dir of the user](https://github.com/lightningnetwork/lnd/pull/6202).
 
+* [rpc-check fails if it finds any changes](https://github.com/lightningnetwork/lnd/pull/6207/)
+  including new and deleted files.
+
 # Contributors (Alphabetical Order)
 
 * 3nprob
@@ -88,6 +91,7 @@
 * ErikEk
 * henta
 * Joost Jager
+* Jordi Montes
 * LightningHelper
 * Liviu
 * mateuszmp
